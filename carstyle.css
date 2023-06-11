@@ -1,0 +1,128 @@
+
+
+body
+{
+   background-image: url(carback.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   display: inline-block;
+   
+  
+ 
+   
+}
+
+  .title0  li
+{
+  
+  text-align: right;
+  padding-right: 20px;
+  display: inline;
+  
+  
+  
+}
+.title1
+
+{
+  
+  padding-left: 400px;
+  font-size: 40px;
+  color:white;
+  cursor: pointer;
+  background-attachment: fixed;
+  
+  
+}
+.title0 
+{
+  
+  font-size: 50px;
+  text-shadow: 2px 2px red;
+  padding-top: 20px;
+ 
+ 
+}
+.title2
+{
+  min-width: 1000px;
+  min-height: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+ 
+}
+.title4
+{
+  color: red;
+  font-size: 80px;
+
+ padding-left: 30px;
+ text-shadow: 2px 2px yellowgreen;
+ font-style: italic;
+ 
+}
+.title5
+{
+  color: white;
+  font-size: 70px;
+ 
+ padding-left: 30px;
+ text-shadow: 2px 2px yellowgreen;
+ 
+}
+.right
+{
+ justify-content: center;
+ position: absolute;
+ padding-left: 50px;
+ font-size: 30px;
+ text-shadow: 2px 2px red;
+ position: relative;
+ text-align: center;
+
+}
+.right img
+{
+  position: relative;
+  width:500px;
+  height:400px;
+  border-radius: 50%;
+  opacity: 0.8;
+
+}
+.text
+{
+  position: absolute;
+  top: 60%;
+  left: 40%;
+
+}
+.title3
+{
+  padding-top: 50px;
+}
+.title6
+{
+  color:black;
+  font-size: 30px;
+ text-align: left;
+ padding-left: 30px;
+ line-height: 2.0;
+ text-shadow: 1px 1px white;
+ 
+
+}
+.btn
+{
+background-color: bisque;
+width:100px;
+height:50px;
+border-radius: 20px;
+
+}
+.tit:hover
+{
+  background: linear-gradient(orange,white);
+  border-radius: 20px;
+}
+
